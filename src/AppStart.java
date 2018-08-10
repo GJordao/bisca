@@ -11,7 +11,7 @@ public class AppStart {
         String name1;
         String name2;
         Game game = null;
-        System.out.println("Welcome to the game of ***\"Bisca\"***");
+        System.out.println("Welcome to the very best game of ***\"Bisca\"***");
         System.out.println("To play against another player press:    1");
         System.out.println("To play against a computer press:        2");
         System.out.println("To watch a game between computers press: 3");
